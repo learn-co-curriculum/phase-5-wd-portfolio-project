@@ -1,4 +1,4 @@
-# So You're About to Enter Mod 5
+# So You're About to Enter Phase 5
 
 It is time. Your final project for this course. This is the capstone project that you’ll
 be showing off to demonstrate all the things that you’ve learned so far. This is awesome.  
@@ -63,13 +63,11 @@ For much of Phase 5, your time is your own. This is, however, a great opportunit
 to practice good time management. There are some specific milestones during this process - 
 your project manager will determine the exact timeline for each of the following:
 
-### Week 1
-
 **Initial Project Pitches**
 
 This is when you get to pitch whatever pie in the sky things you want. We’re not yet worried
 about what your MVP is or whether your idea is practical - just come up with ideas. You won’t
-be starting on your project until Day 3, so think of this as your research and development
+be starting on your project immediately, so think of this as your research and development
 phase. Learn Auth, learn Redux, learn how to use complex APIs and libraries. Your instructor
 will give you an idea of what is and isn’t practical, and some guidance on the technologies
 you’re looking at.
@@ -85,7 +83,7 @@ project to move forward with.
 
 **Retro**
 
-You’ll be taking part in a retro every Friday.  This will be the time to talk about what went
+You’ll be taking part in a retro once a week.  This will be the time to talk about what went
 right, what went wrong, what roadblocks you’re still up against and your plan of attack for
 getting over them.
 
@@ -93,20 +91,17 @@ You’ll also have two mandatory check-ins with your instructor leading up to yo
 presentation.  After that, office hours will be available to sign-up for, but will not be
 mandatory.
 
-### Week 2
-
 **MVP Presentations**
 
 You will present your completed MVP to your project manager and a lead instructor. You should
 have all the functionality that you promised during your project proposal, as well as a plan
 of attack for the next week.
+ 
+**Projects Complete**
 
-### Week 3 
-
-**Mid-Week - Projects Complete**
-
-By mid-week, you should have your project done. Time after this should be spent styling and
-fixing minor bugs only - you should be done with all the core functionality.
+A few days before your projec is due, **you should have your project done**. Time after this
+should be spent styling and fixing minor bugs only - you should be done with all the core
+functionality.
 
 **Science Fair**
 
