@@ -97,7 +97,6 @@ You will present your completed MVP to your project manager and a lead instructo
 have all the functionality that you promised during your project proposal, as well as a plan
 of attack for the next week.
  
-
 **Projects Complete**
 
 A few days before your projec is due, **you should have your project done**. Time after this
